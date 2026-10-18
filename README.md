@@ -16,6 +16,7 @@
 
 - **控制与自动化**：练习状态机、正反转互锁、急停恢复和控制过程可视化。
 - **机器人与 AI 工程**：学习视觉语言动作模型（VLA）的代码结构，围绕评估记录、模型服务通信和异常处理做小范围改进。
+- **真机与仿真**：参与 OpenViTac 相关实践，参与方向为机器人真机实践与仿真实践。
 - **交互与应用开发**：用浏览器和桌面应用，把程序做成可以操作、查看结果的作品。
 
 近期希望继续学习时间序列分析、负荷预测和能源数据可视化，把已有的控制与交互开发经验用于数据应用。
@@ -27,10 +28,11 @@
 | **电机互锁实验** | 控制状态机、互锁与急停、操作记录 | [在线体验](https://ton242678-glitch.github.io/motor-interlock-lab/) · [仓库](https://github.com/ton242678-glitch/motor-interlock-lab) |
 | **StarVLA 通信扩展** | WebSocket 超时、异常请求处理、本地通信演示 | [改进说明](https://github.com/ton242678-glitch/starvla-deploy-kit/blob/starVLA_dev/docs/deployment_extensions_zh.md) · [仓库](https://github.com/ton242678-glitch/starvla-deploy-kit) |
 | **Spatial-Forcing 评估扩展** | 动作窗口修复、参数检查、实验结果导出 | [改进说明](https://github.com/ton242678-glitch/spatial-forcing-eval/blob/master/docs/evaluation_extensions_zh.md) · [仓库](https://github.com/ton242678-glitch/spatial-forcing-eval) |
+| **OpenViTac 实践资料** | 真机与仿真实践方向、视触觉任务理解与论文导读 | [项目资料](https://github.com/ton242678-glitch/openvitac-practice) · [项目官网](https://fvl-repo.github.io/OpenViTac/) |
 | **Windows 桌宠** | Electron / TypeScript、托盘与窗口交互、动画 | [运行说明与素材预览](https://github.com/ton242678-glitch/nailong) |
 | **纸飞机大战** | Canvas 动画、游戏循环、碰撞检测与浏览器音效 | [在线试玩](https://ton242678-glitch.github.io/paper-flight-battle/) · [仓库](https://github.com/ton242678-glitch/paper-flight-battle) |
 
-## 三个重点实践
+## 重点项目与实践
 
 ### 电机互锁可视化实验
 
@@ -65,6 +67,16 @@
 **使用技术**：Python · JSON / CSV · 评估工具 · GitHub Actions
 
 [实现与统计口径](https://github.com/ton242678-glitch/spatial-forcing-eval/blob/master/docs/evaluation_extensions_zh.md) · [查看代码](https://github.com/ton242678-glitch/spatial-forcing-eval) · [自动测试记录](https://github.com/ton242678-glitch/spatial-forcing-eval/actions)
+
+### OpenViTac · 视触觉机器人实践
+
+**参与方向**：机器人真机实践与仿真实践。
+
+OpenViTac 围绕视觉与触觉结合的机器人操作，研究对应仿真与真机任务中的策略评估。项目资料仓库整理了论文导读、四类能力与任务对应关系，以及官方入口。
+
+**相关方向**：机器人操作 · 视触觉 · 仿真与真机
+
+[我的项目资料](https://github.com/ton242678-glitch/openvitac-practice) · [项目官网](https://fvl-repo.github.io/OpenViTac/) · [原论文](https://arxiv.org/abs/2610.10384v1)
 
 ## 正在积累的技能
 
