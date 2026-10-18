@@ -28,7 +28,7 @@
 | **电机互锁实验** | 控制状态机、互锁与急停、操作记录 | [在线体验](https://ton242678-glitch.github.io/motor-interlock-lab/) · [仓库](https://github.com/ton242678-glitch/motor-interlock-lab) |
 | **StarVLA 通信扩展** | WebSocket 超时、异常请求处理、本地通信演示 | [改进说明](https://github.com/ton242678-glitch/starvla-deploy-kit/blob/starVLA_dev/docs/deployment_extensions_zh.md) · [仓库](https://github.com/ton242678-glitch/starvla-deploy-kit) |
 | **Spatial-Forcing 评估扩展** | 动作窗口修复、参数检查、实验结果导出 | [改进说明](https://github.com/ton242678-glitch/spatial-forcing-eval/blob/master/docs/evaluation_extensions_zh.md) · [仓库](https://github.com/ton242678-glitch/spatial-forcing-eval) |
-| **OpenViTac 实践资料** | 真机与仿真实践方向、视触觉任务理解与论文导读 | [项目资料](https://github.com/ton242678-glitch/openvitac-practice) · [项目官网](https://fvl-repo.github.io/OpenViTac/) |
+| **OpenViTac 实践资料** | 真机与仿真实践方向、视触觉任务理解与论文导读 | [项目资料](https://github.com/ton242678-glitch/openvitac-practice) · [源码 Fork](https://github.com/ton242678-glitch/openvitac) |
 | **Windows 桌宠** | Electron / TypeScript、托盘与窗口交互、动画 | [运行说明与素材预览](https://github.com/ton242678-glitch/nailong) |
 | **纸飞机大战** | Canvas 动画、游戏循环、碰撞检测与浏览器音效 | [在线试玩](https://ton242678-glitch.github.io/paper-flight-battle/) · [仓库](https://github.com/ton242678-glitch/paper-flight-battle) |
 
@@ -76,7 +76,7 @@ OpenViTac 围绕视觉与触觉结合的机器人操作，研究对应仿真与�
 
 **相关方向**：机器人操作 · 视触觉 · 仿真与真机
 
-[我的项目资料](https://github.com/ton242678-glitch/openvitac-practice) · [项目官网](https://fvl-repo.github.io/OpenViTac/) · [原论文](https://arxiv.org/abs/2610.10384v1)
+[我的项目资料](https://github.com/ton242678-glitch/openvitac-practice) · [源码 Fork](https://github.com/ton242678-glitch/openvitac) · [项目官网](https://fvl-repo.github.io/OpenViTac/) · [原论文](https://arxiv.org/abs/2610.10384v1)
 
 ## 正在积累的技能
 
