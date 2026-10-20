@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Ton — Automation and Robotics</title><desc id="desc">A personal learning portfolio about control systems, robotics and interactive applications.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f39"/><stop offset="1" stop-color="#07121f"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4ce0c3"/><stop offset="1" stop-color="#6c9cff"/></linearGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#7392b8" stroke-opacity=".10"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#bg)" stroke="#29415f"/>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#grid)"/>
+<path d="M59 52H117" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="59" y="84" fill="#8baccd" font-size="13" letter-spacing="3">PERSONAL PROJECTS / LEARNING LOG</text>
+<text x="54" y="178" fill="#f1f6fc" font-size="94" font-weight="700" letter-spacing="5">TON</text>
+<text x="59" y="215" fill="#bdd0e3" font-size="21">Automation student. Robotics practice.</text>
+<text x="59" y="260" fill="#5bd9c4" font-size="12" letter-spacing="2">CONTROL</text><text x="160" y="260" fill="#6a839f" font-size="12">/</text>
+<text x="182" y="260" fill="#80adff" font-size="12" letter-spacing="2">ROBOTICS</text><text x="300" y="260" fill="#6a839f" font-size="12">/</text>
+<text x="321" y="260" fill="#bdd0e3" font-size="12" letter-spacing="2">INTERACTION</text>
+<rect x="706" y="49" width="433" height="201" rx="16" fill="#11243c" fill-opacity=".72" stroke="#294768"/>
+<path d="M742 219H1097" stroke="#294768" stroke-width="2"/>
+<path d="M789 213L843 163L817 108L898 81L955 119" fill="none" stroke="#203b55" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M789 213L843 163L817 108L898 81L955 119" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#0c1a2d" stroke="#5bd9c4" stroke-width="3"><circle cx="789" cy="213" r="10"/><circle cx="843" cy="163" r="10"/><circle cx="817" cy="108" r="10"/><circle cx="898" cy="81" r="10"/></g>
+<path d="M954 119L975 111M954 119L962 141M975 111L988 121M962 141L979 143" fill="none" stroke="#83afff" stroke-width="5" stroke-linecap="round"/>
+<rect x="1008" y="168" width="55" height="49" rx="8" fill="#112f45" stroke="#4ce0c3" stroke-width="2"/>
+<path d="M1018 184H1053M1018 195H1042" stroke="#4ce0c3" stroke-opacity=".65" stroke-width="2"/>
+<circle cx="1102" cy="78" r="4" fill="#5bd9c4"/><text x="1020" y="83" fill="#85a4c2" font-size="10" letter-spacing="1">IN PRACTICE</text>
+<text x="743" y="270" fill="#6b8bab" font-size="10" letter-spacing="1.8">CODE · DEMO · TESTS · NOTES</text>
+</g>
+</svg>
