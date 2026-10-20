@@ -4,7 +4,7 @@
 
 **自动化专业在读 · 控制逻辑 · 机器人实践 · 交互作品**
 
-[电机互锁在线实验](https://ton242678-glitch.github.io/motor-interlock-lab/)　·　[纸飞机在线试玩](https://ton242678-glitch.github.io/paper-flight-battle/)　·　[全部仓库](https://github.com/ton242678-glitch?tab=repositories)
+[触摸屏方案预览](https://ton242678-glitch.github.io/industrial-hmi-panel/)　·　[电机互锁在线实验](https://ton242678-glitch.github.io/motor-interlock-lab/)　·　[纸飞机在线试玩](https://ton242678-glitch.github.io/paper-flight-battle/)　·　[全部仓库](https://github.com/ton242678-glitch?tab=repositories)
 
 </div>
 
@@ -20,11 +20,11 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3>01　电机互锁实验</h3>
-<p><strong>控制逻辑与交互演示</strong></p>
-<p>在浏览器中观察正反转互锁、方向冲突和急停恢复。控制模型与界面分离，支持操作记录与 CSV 导出。</p>
-<p><code>JavaScript</code> <code>State Machine</code> <code>Testing</code></p>
-<p><a href="https://ton242678-glitch.github.io/motor-interlock-lab/">在线体验</a> · <a href="https://github.com/ton242678-glitch/motor-interlock-lab">查看代码</a> · <a href="https://github.com/ton242678-glitch/motor-interlock-lab/actions">验证记录</a></p>
+<h3>01　产线触摸屏方案</h3>
+<p><strong>人机界面与设备操作实践</strong></p>
+<p>整理 800 × 480 触摸屏工程，覆盖手动控制、自动运行、报警、参数与库位管理；提供 13 个画面预览和工程文件。</p>
+<p><code>HMI</code> <code>TouchWin</code> <code>Industrial Automation</code></p>
+<p><a href="https://ton242678-glitch.github.io/industrial-hmi-panel/">在线预览</a> · <a href="https://github.com/ton242678-glitch/industrial-hmi-panel">查看方案</a> · <a href="https://github.com/ton242678-glitch/industrial-hmi-panel/blob/main/engineering/industrial-panel-demo.xjp">工程文件</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -63,6 +63,7 @@
 
 | 作品 | 做了什么 | 入口 |
 | --- | --- | --- |
+| **电机互锁实验** | JavaScript 状态机、正反转互锁、急停恢复与 CSV 记录 | [在线实验](https://ton242678-glitch.github.io/motor-interlock-lab/) · [查看代码](https://github.com/ton242678-glitch/motor-interlock-lab) |
 | **Windows 桌宠** | Electron / TypeScript、托盘控制、拖拽与互动动画 | [运行说明与素材预览](https://github.com/ton242678-glitch/nailong) |
 | **纸飞机大战** | 原生 JavaScript / Canvas、游戏循环与碰撞检测 | [在线试玩](https://ton242678-glitch.github.io/paper-flight-battle/) · [查看代码](https://github.com/ton242678-glitch/paper-flight-battle) |
 
